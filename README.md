@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 🔭 I’m currently working on Nutrition Application for the Diabetic<br>👯Open to collaboration on exciting projects<br>🤝 I’m looking for help with innovative projects<br>🌱 I’m currently learning and expanding my skill set on postgreSQL<br>💬 Feel free to ask me about my interests and experiences<br>⚡ Fun fact: : I can solve a Rubik's Cube in under two minutes!
 
 
